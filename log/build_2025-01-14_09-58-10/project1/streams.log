@@ -1,0 +1,27 @@
+[0.746s] Invoking command in '/home/yeonho/project1_ws/src/project1': AMENT_PREFIX_PATH=/home/yeonho/project1_ws/install/cv_bridge:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yeonho/project1_ws/install/cv_bridge:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeonho/project1_ws/install/cv_bridge/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/yeonho/project1_ws/build/project1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yeonho/project1_ws/install/project1/lib/python3.10/site-packages:/home/yeonho/project1_ws/install/cv_bridge/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/project1 build --build-base /home/yeonho/project1_ws/build/project1/build install --record /home/yeonho/project1_ws/build/project1/install.log --single-version-externally-managed install_data
+[0.956s] running egg_info
+[0.957s] writing ../../build/project1/project1.egg-info/PKG-INFO
+[0.957s] writing dependency_links to ../../build/project1/project1.egg-info/dependency_links.txt
+[0.957s] writing entry points to ../../build/project1/project1.egg-info/entry_points.txt
+[0.957s] writing requirements to ../../build/project1/project1.egg-info/requires.txt
+[0.957s] writing top-level names to ../../build/project1/project1.egg-info/top_level.txt
+[0.959s] reading manifest file '../../build/project1/project1.egg-info/SOURCES.txt'
+[0.963s] writing manifest file '../../build/project1/project1.egg-info/SOURCES.txt'
+[0.963s] running build
+[0.963s] running build_py
+[0.963s] running install
+[0.964s] running install_lib
+[0.966s] running install_data
+[0.966s] copying launch/detection.launch.py -> /home/yeonho/project1_ws/install/project1/share/project1/launch
+[0.967s] running install_egg_info
+[0.968s] removing '/home/yeonho/project1_ws/install/project1/lib/python3.10/site-packages/project1-0.0.0-py3.10.egg-info' (and everything under it)
+[0.968s] Copying ../../build/project1/project1.egg-info to /home/yeonho/project1_ws/install/project1/lib/python3.10/site-packages/project1-0.0.0-py3.10.egg-info
+[0.970s] running install_scripts
+[0.987s] Installing following script to /home/yeonho/project1_ws/install/project1/lib/project1
+[0.988s] Installing init_pose script to /home/yeonho/project1_ws/install/project1/lib/project1
+[0.988s] Installing new_object script to /home/yeonho/project1_ws/install/project1/lib/project1
+[0.988s] Installing new_webcam script to /home/yeonho/project1_ws/install/project1/lib/project1
+[0.988s] Installing object_detection script to /home/yeonho/project1_ws/install/project1/lib/project1
+[0.988s] Installing waypoint_following script to /home/yeonho/project1_ws/install/project1/lib/project1
+[0.989s] writing list of installed files to '/home/yeonho/project1_ws/build/project1/install.log'
+[1.015s] Invoked command in '/home/yeonho/project1_ws/src/project1' returned '0': AMENT_PREFIX_PATH=/home/yeonho/project1_ws/install/cv_bridge:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/yeonho/project1_ws/install/cv_bridge:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeonho/project1_ws/install/cv_bridge/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/yeonho/project1_ws/build/project1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yeonho/project1_ws/install/project1/lib/python3.10/site-packages:/home/yeonho/project1_ws/install/cv_bridge/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/project1 build --build-base /home/yeonho/project1_ws/build/project1/build install --record /home/yeonho/project1_ws/build/project1/install.log --single-version-externally-managed install_data

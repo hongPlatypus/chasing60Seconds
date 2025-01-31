@@ -1,0 +1,7 @@
+[console_scripts]
+following = project1.following:main
+init_pose = project1.init_pose:main
+object_detection = project1.object_detection:main
+police_office = project1.police_office:main
+waypoint_follower = project1.waypoint_follower:main
+
